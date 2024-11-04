@@ -6,7 +6,7 @@
 
 ## **Sistema Experto para la Selección y Colocación de Pisos en Viviendas Familiares.**
 * Este documento describe la organización del conocimiento en un sistema experto para la colocación de pisos en viviendas familiares, adaptado específicamente para las condiciones climáticas y técnicas de Tierra del Fuego, Argentina.
-
+* [Ver Documento](references/Sistema-Experto-Construccion---Evaluacion-Parcial---Suarez-Jonatan.pdf)
 ## Instalación del Sistema Experto
 * [Ver Documento](references/Instalacion.pdf)
 
