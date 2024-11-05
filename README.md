@@ -1,3 +1,5 @@
+![Portada](reports/figures/Portada.png)
+
 # Sistema Experto de Construcción
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
